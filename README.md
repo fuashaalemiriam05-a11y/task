@@ -21,4 +21,14 @@ I ***love codding***
 >> especially codding
   
 ###code formating  
-the traditional `hello world` code
+the traditional `hello world` code  
+### how to highlight code  
+to run my projects follow the follozing steps
+```cmd  
+git init _ _ in the folder to chose to work on  
+git clone <url> to clone my repo  
+```  
+this will run the code below  
+``` javascript  
+console.log("hello world")
+```
