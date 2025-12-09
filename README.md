@@ -14,6 +14,6 @@ I ***love codding***
 - security  
 - manager  
 ## **orderlist**  
-  banking
-  finance
-  comerce
+  banking  
+  finance  
+  comerce  
