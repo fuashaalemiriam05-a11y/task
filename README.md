@@ -4,5 +4,8 @@
 #### text
 ##### text
 ###### text
-my name is FUASHAALE MIRIAM  
-I AM A STUDENT OF YIBS
+my name is FUASHAALE MIRIAM 
+I am a student of YIBS
+i live at **simbock**  
+I am in *year one*  
+I ***love codding***
