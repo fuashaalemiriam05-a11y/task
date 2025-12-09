@@ -33,4 +33,4 @@ this will run the code below
 console.log("hello world")
 ```
 ## how to add links  
-the AI module was provided by [fuashaaleemiriam] (<https://github.com/fuashaalemiriam05-a11y/task/edit/main/README.md>)
+the AI module was provided by [fuashaale miriam] (<https://github.com/fuashaalemiriam05-a11y/task/edit/main/README.md>)
