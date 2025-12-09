@@ -33,5 +33,6 @@ this will run the code below
 console.log("hello world")
 ```
 ## how to add links  
-the AI module was provided by [yvesdylan] (<url>)  
-https://github.com/yvesdylan  
+the AI module was provided by  
+[yvesdylane] (<url>)   
+https://github.com/yvesdylane   
